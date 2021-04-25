@@ -1,7 +1,7 @@
 name = "Minimal"
 license = "MIT"
 licenselink = "https://github.com/calintat/minimal/blob/master/LICENSE.md"
-description = "Personal blog and website"
+description = "Personal blog theme powered by Hugo"
 homepage = "http://github.com/calintat/minimal/"
 tags = ["blog", "minimal", "personal", "responsive"]
 features = ["responsive"]
