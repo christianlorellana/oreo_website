@@ -1,4 +1,4 @@
-title = "Hi, I'm Oreo"
+title = "Oreo's site"
 theme = "minimal-master"
 baseURL = "https://theoreo.xyz/"
 languageCode = "en-us"
@@ -8,9 +8,10 @@ googleAnalytics = ""
 [params]
     author = "Christian Orellana"
     description = "This is my personal blog and website"
+    intro = "Hi, I'm Oreo"
     githubUsername = "#christianlorellana"
-    accent = "red"
-    showBorder = false
+    accent = "black"
+    showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
