@@ -9,8 +9,11 @@ draft: false
 
 My friend brought two pork shoulders already covered in rub around 7AM to be smoked for 8 hours at 250F.
 
-![Prior transferring to grill](/resources/_gen/images/prior.jpg "Rubbed up!")
+This is right before they went on the grill
+![Prior transferring to grill](/images/prior.jpg "Rubbed up!")
 
-![A few hours later](/resources/_gen/images/fewhourslater.jpg "Tasty!")
+Time to start wrapping whichever got to 175F first!
+![A few hours later](/images/fewhourslater.jpg "Tasty!")
 
-![Sliders, nachos, tacos, etc...](/resources/_gen/images/anafternoonlater.jpg "So delicious!")
+It tasted so good my first reaction was to laugh really hard! haha!
+![Sliders, nachos, tacos, etc...](/images/anafternoonlater.jpg "So delicious!")
