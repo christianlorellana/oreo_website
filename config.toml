@@ -1,6 +1,6 @@
 title = "Oreo's Site"
 theme = "minimal-master"
-baseURL = "http://example.com/"
+baseURL = "https://theoreo.xyz/"
 languageCode = "en-us"
 #disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
