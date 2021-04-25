@@ -1,4 +1,4 @@
-title = "Oreo's Site"
+title = "Hi, I'm Oreo"
 theme = "minimal-master"
 baseURL = "https://theoreo.xyz/"
 languageCode = "en-us"
@@ -7,7 +7,7 @@ googleAnalytics = ""
 
 [params]
     author = "Christian Orellana"
-    description = "Personal blog theme powered by Hugo"
+    description = "This is my personal blog and website"
     githubUsername = "#christianlorellana"
     accent = "red"
     showBorder = false
