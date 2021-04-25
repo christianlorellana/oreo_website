@@ -63,6 +63,6 @@ googleAnalytics = ""
     weight = 4
 
 [[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "fab fa-stack-overflow"
+    url = "https://www.youtube.com/channel/UC7yWDGTDdEeHaIcgen6qTKA"
+    name = "fab fa-youtube"
     weight = 5
