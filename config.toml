@@ -2,7 +2,7 @@ title = "Oreo's site"
 theme = "minimal-master"
 baseURL = "https://theoreo.xyz/"
 languageCode = "en-us"
-#disqusShortname = "username" # delete this to disable disqus comments
+disqusShortname = "christianlorellana"
 googleAnalytics = ""
 
 [params]
