@@ -1,2 +1,3 @@
-# oreo_website
- my own personal website using hugo
+# Personal Website
+My own personal website powered by Hugo and Minimal theme to complement my resume.
+
