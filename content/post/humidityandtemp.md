@@ -5,7 +5,7 @@ tags: ["python", "raspberry pi", "graphite"]
 draft: false
 ---
 
-## Description
+### Description
 
 Soldered Adafruit DHT22 sensor to prototype raspberry pi zero w, and wrote a python script to query the sensor and send the output to a graphite server every couple of seconds. The temperature and humidity can then be graphed over time to get a better feel of the environment around, and multiple devices can be used in other locations.
 

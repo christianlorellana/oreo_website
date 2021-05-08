@@ -5,7 +5,7 @@ tags: ["pork shoulder", "pulled pork", "traeger"]
 draft: false
 ---
 
-## Description
+### Description
 
 My friend brought two pork shoulders already covered in rub around 7AM to be smoked for 8 hours at 250F.
 
